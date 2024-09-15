@@ -8,7 +8,7 @@ import { faMagnifyingGlass} from '@fortawesome/free-solid-svg-icons'
 function JobsPage() {
   return (
     <>
-      <Navbar/>
+      {/* <Navbar/> */}
       <div className='container' id="jobs">
         <div className='search-area'>
           <div className='search-top'>
