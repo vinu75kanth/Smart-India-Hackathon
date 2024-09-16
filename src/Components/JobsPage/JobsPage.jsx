@@ -9,7 +9,7 @@ function JobsPage() {
   return (
     <>
       {/* <Navbar/> */}
-      <div className='container' id="jobs">
+      <div className='container thisCon' id="jobs">
         <div className='search-area'>
           <div className='search-top'>
             <p>Experience</p>
